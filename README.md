@@ -1,2 +1,2 @@
-# hourboost.github.io
+# heroicboost.github.io
 kişisel site
